@@ -1,6 +1,6 @@
 # Loan Prediction Project
 
-Overview
+## Overview
 This project aims to predict loan eligibility for applicants based on various features. Using machine learning algorithms, the model learns from historical data to determine if an applicant qualifies for a loan. The dataset includes factors such as applicant income, loan amount, credit history, and more.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
